@@ -34,7 +34,3 @@ Random Forest	99.93%	0.77
 XGBoost	99.96%	0.87
 
 ## ✅ Best Performing Model: XGBoost with the highest F1 score and accuracy.
-
-## 📊 Confusion Matrix Plots
-The project includes confusion matrix visualizations for all models. These plots clearly show how each classifier performs on imbalanced data.
-<img width="614" height="573" alt="Image" src="https://github.com/user-attachments/assets/d19faed0-c1d4-4c1e-bd33-03033d1dfc91" />
